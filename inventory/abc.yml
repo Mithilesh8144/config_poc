@@ -1,0 +1,4 @@
+inventory:
+  base:
+    url: hello
+    port: 8082
